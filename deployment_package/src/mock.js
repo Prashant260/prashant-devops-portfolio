@@ -81,50 +81,33 @@ export const mockData = {
         name: "Kubernetes for Beginners",
         provider: "KodeKloud",
         date: "2025",
-        link: "https://kodekloud.com/certificate-verification/2C4B5F8C6E-2C4B5F8C6D-2C4B5F8C6A"
+        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
       },
       {
         name: "Terraform Basics",
         provider: "KodeKloud", 
         date: "2025",
-        link: "https://kodekloud.com/certificate-verification/2C4B5F8C6E-2C4B5F8C6D-2C4B5F8C6B"
+        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
       },
       {
         name: "AWS CLI Basics",
         provider: "AWS",
         date: "July 12, 2025",
-        link: "https://www.credly.com/badges/aws-cli-basics-prashant-choudhary"
+        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
       },
       {
         name: "Getting Started with DevOps on AWS",
         provider: "AWS",
         date: "July 11, 2025", 
-        link: "https://www.credly.com/badges/devops-aws-prashant-choudhary"
+        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
       },
       {
         name: "Git Basics",
         provider: "Self-Learning",
         date: "2025",
-        link: "https://github.com/Prashant260/git-certification"
+        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
       },
-      {
-        name: "Docker Fundamentals",
-        provider: "Docker",
-        date: "2025",
-        link: "https://www.docker.com/certification/docker-fundamentals"
-      },
-      {
-        name: "Ansible Automation",
-        provider: "Red Hat",
-        date: "2025",
-        link: "https://www.redhat.com/en/services/certification/ansible-automation"
-      },
-      {
-        name: "Prometheus Monitoring",
-        provider: "CNCF",
-        date: "2025",
-        link: "https://www.cncf.io/certification/prometheus-monitoring"
-      }
+      
     ],
     achievements: [
       {
@@ -133,12 +116,7 @@ export const mockData = {
         date: "May 2025",
         link: "https://elevatelabs.com/achievements/best-performer-devops-intern"
       },
-      {
-        name: "Outstanding Performance in Infrastructure Automation",
-        provider: "Elevate Labs",
-        date: "May 2025",
-        link: "https://elevatelabs.com/achievements/infrastructure-automation-excellence"
-      }
+     
     ]
   },
   education: {
