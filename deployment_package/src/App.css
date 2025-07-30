@@ -256,7 +256,7 @@
 
 .title-big { 
   font-family: 'Inter', ui-sans-serif, system-ui, sans-serif; 
-  font-size: clamp(32px, 6vw, 80px); 
+  font-size: clamp(24px, 6vw, 80px); 
   font-weight: 700; 
   color: var(--text-primary); 
   line-height: 1.2; 
