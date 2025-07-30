@@ -81,31 +81,31 @@ export const mockData = {
         name: "Kubernetes for Beginners",
         provider: "KodeKloud",
         date: "2025",
-        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
+        link: "https://drive.google.com/file/d/1cMwNTaKNkvnkftWHxDeSnrTc-NsoWJAH/view?usp=sharing"
       },
       {
         name: "Terraform Basics",
         provider: "KodeKloud", 
         date: "2025",
-        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
+        link: "https://drive.google.com/file/d/1oR30a3HMPZ9XRQ7rWnNeRWQtbGSkvw_g/view?usp=sharing"
       },
       {
         name: "AWS CLI Basics",
         provider: "AWS",
         date: "July 12, 2025",
-        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
+        link: "https://drive.google.com/file/d/18h0p9MoQJ1-UBk49cw659z-DhVHAqIyE/view?usp=sharing"
       },
       {
         name: "Getting Started with DevOps on AWS",
         provider: "AWS",
         date: "July 11, 2025", 
-        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
+        link: "https://drive.google.com/file/d/1wPFfixFc6-_oHQjR1jr3HjWhkk4jNXuL/view?usp=sharing"
       },
       {
         name: "Git Basics",
         provider: "Self-Learning",
         date: "2025",
-        link: "https://drive.google.com/drive/folders/1uXmqma4sXjxyr8ikEWFuQSYameLSYuBB?usp=drive_link"
+        link: "https://drive.google.com/file/d/1EAHUBr8I_t3vWHvmq-AvDHC7WJuaqwJ7/view?usp=sharing"
       },
       
     ],
