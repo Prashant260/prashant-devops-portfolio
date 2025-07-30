@@ -64,10 +64,12 @@ const Portfolio = () => {
     return () => clearTimeout(timer);
   }, []);
 
-  const handleDownloadResume = () => {
-    // Mock download - in real app this would download actual PDF
-    alert("Resume download would start here!");
-  };
+ const handleDownloadResume = () => {
+  window.open(
+    "https://drive.google.com/file/d/1WTaXUpJ2D4sUTb9bVn8BljCYcjzaMU3s/view?usp=sharing",
+    "_blank"
+  );
+};
 
   if (loading) {
     return <DevOpsPreloader />;
