@@ -114,7 +114,7 @@ export const mockData = {
         name: "Best Performer - DevOps Intern",
         provider: "Elevate Labs",
         date: "May 2025",
-        link: "https://elevatelabs.com/achievements/best-performer-devops-intern"
+        link: "https://drive.google.com/file/d/1TQA2KS970DDXeM-sBGX3JghqjfEyBsvq/view?usp=sharing"
       },
      
     ]
